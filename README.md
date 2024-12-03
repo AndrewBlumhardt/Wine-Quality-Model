@@ -23,8 +23,8 @@ To set up the project environment, follow these steps:
 
 bash
 Copy code
-git clone [repository-url]
-cd [repository-name]
+git clone [[repository-url](https://github.com/AndrewBlumhardt/Wine-Quality-Model/tree/main)]
+cd [Wine-Quality-Model]
 Install required Python packages:
 
 Copy code
